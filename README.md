@@ -1,2 +1,2 @@
 # AlertGuard
-AlertGuard is an IoT-based door alarm system that enhances security by wirelessly monitoring door status and sending real-time notifications to an Android app, providing alerts from anywhere.
+AlertGuard is an IoT-based door alarm system designed to enhance security by wirelessly monitoring the status of doors and sending real-time notifications to an Android app. This system allows users to receive alerts from anywhere, ensuring prompt awareness of door activity. It utilizes a NodeMCU V3 (ESP8266) microcontroller paired with a reed switch door sensor to detect door openings and closings. The alarm can be toggled between "Enabled" and "Disabled" modes via the Android app, providing real-time updates and notifications for enhanced security management.
