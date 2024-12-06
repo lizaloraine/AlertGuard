@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "128431894524",
+    "firebase_url": "https://iotbaseddooralarmapp-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "iotbaseddooralarmapp",
+    "storage_bucket": "iotbaseddooralarmapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128431894524:android:5680251fde09d53136cc79",
+        "android_client_info": {
+          "package_name": "com.example.iotbaseddooralarmsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128431894524-fak0kh3p0oil3opk409k93sknr13c5s9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdID5iUAPgehyEv3ZVifR7DmwmdAWv1h8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128431894524-fak0kh3p0oil3opk409k93sknr13c5s9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
