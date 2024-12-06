@@ -31,9 +31,8 @@ Located in the `Hardware/` directory. Includes:
 
 ### 4. **Firebase**
 Located in the `Firebase/` directory. Includes:
-- `firebase_config.json`: Configuration file for Firebase setup.
-- `DatabaseStructure.txt`: Details on the Firebase Realtime Database structure.
-- `README.md`: Instructions for setting up Firebase.
+- `google-services.json`: Configuration file for Firebase setup.
+- `README.md`: Instructions for setting up Firebase. Including the Database Structures.
 
 ---
 
