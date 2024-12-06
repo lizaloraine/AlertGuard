@@ -43,13 +43,13 @@ This guide will walk you through setting up Firebase for the **AlertGuard** proj
 ### **Database Structure for Realtime Database:**
 The Realtime Database will store the following structure:
 
-```plaintext
-{
-  "doorStatus": {
-    "status": "closed"  // Possible values: "closed" or "open"
-  },
-  "notification": "The door is closed"  // Message reflecting the door status
-}
+  ```plaintext
+  {
+    "doorStatus": {
+      "status": "closed"  // Possible values: "closed" or "open"
+    },
+    "notification": "The door is closed"  // Message reflecting the door status
+  }
 
 - This is the database structure, and this will be the one who will detect changes or events from the Node MCU.
 
