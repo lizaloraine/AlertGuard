@@ -56,7 +56,7 @@ Located in the `Firebase/` directory. Includes:
 
 ### **Arduino Code**
 1. Install the [Arduino IDE](https://www.arduino.cc/en/software).
-2. Download the required libraries (`ESP8266WiFi`, `FirebaseESP8266`, `NTPClient`).
+2. Download the required libraries (`FirebaseESP8266`, `NTPClient`).
 3. Replace placeholder Firebase credentials in the code with your project's details.
 4. Upload `alertguard.ino` to the NodeMCU ESP8266.
 
