@@ -43,7 +43,7 @@ This guide will walk you through setting up Firebase for the **AlertGuard** proj
 ### **Database Structure for Realtime Database:**
 The Realtime Database will store the following structure:
 
-  ```gradle
+  
   {
     "doorStatus": {
       "status": "closed"  // Possible values: "closed" or "open"
@@ -64,7 +64,6 @@ The Realtime Database will store the following structure:
 ### **Database Structure for Firestore:**
 Firestore will store the user's door status and notification history. For each user, the structure will look as follows:
 
-```plaintext
 /notifications
   /{userId}
     /history
