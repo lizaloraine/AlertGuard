@@ -25,7 +25,7 @@ Located in the `Android App/` directory. Includes:
 
 ### 3. **Hardware**
 Located in the `Hardware/` directory. Includes:
-- `SETUP.md` (Instruction for setting up the system)
+- `SETUP.md` (Detailed instructions for setting up the system)
 - `hardware_setup.jpg`
 - `connection_image.jpg`
 
