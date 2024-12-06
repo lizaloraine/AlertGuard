@@ -51,6 +51,8 @@ The Realtime Database will store the following structure:
   "notification": "The door is closed"  // Message reflecting the door status
 }
 
+- This is the database structure, and this will be the one who will detect changes or events from the Node MCU.
+
 ---
 
 ## **3. Setting Up Firestore Database**
