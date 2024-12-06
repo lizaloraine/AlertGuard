@@ -56,7 +56,7 @@ The system uses a reed switch sensor to detect door status (open/closed). The No
 ---
 
 ## **Circuit Diagram**
-Refer to the `CircuitDiagram.png` file in this folder for a visual representation of the connections.
+Refer to the `connection_image.jpg` file in this folder for a visual representation of the connections.
 
 ---
 
