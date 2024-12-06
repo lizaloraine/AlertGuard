@@ -82,7 +82,8 @@ Located in the `Firebase/` directory. Includes:
 - NodeMCU ESP8266 community for libraries and documentation.
 - Inspiration from the need for smarter home security systems.
 
-This is a final project in fulfillment for our course **CS 312 - Mobile Computing**. Thank you ! ❤️
+This project, *AlertGuard*, is our final project in fulfillment of the course **CS 312 - Mobile Computing**.
+Thank you ! ❤️
 
 ---
 
